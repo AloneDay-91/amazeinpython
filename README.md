@@ -7,7 +7,7 @@
 ## Configuration : 
 #### Tout d'abord, récupéré le programme en faisant la commande suivante :
 ```bash
-git clone https://github.com/AloneDay-91/AMazeInPython.git
+git clone https://github.com/AloneDay-91/amazeinpython.git
 ```
 
 #### Ensuite, vous devez installer la [version 3.9 de python](https://www.python.org/downloads/release/python-390/)  pour que tout fonctionne.
